@@ -1,0 +1,49 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 0;
+    font-size: 24px; /* Aumente o tamanho da fonte geral */
+}
+
+.container {
+    max-width: 600px; /* Aumente a largura máxima do container */
+    margin: 20px auto;
+    padding: 30px;
+    font-size: 28px; /* Aumente o tamanho da fonte no container */
+}
+
+h1 {
+    text-align: center;
+    font-size: 36px; /* Aumente o tamanho da fonte do título */
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    font-size: 28px; /* Aumente o tamanho da fonte nos campos de entrada */
+}
+
+label {
+    font-weight: bold;
+    font-size: 32px; /* Aumente o tamanho da fonte nas etiquetas */
+}
+
+input {
+    padding: 14px; /* Aumente o preenchimento nos campos de entrada */
+    font-size: 28px; /* Aumente o tamanho da fonte nos campos de entrada */
+}
+
+button {
+    padding: 16px; /* Aumente o preenchimento no botão */
+    font-size: 28px; /* Aumente o tamanho da fonte no botão */
+}
+
+#resultado {
+    margin-top: 30px;
+    display: none;
+    font-size: 28px; /* Aumente o tamanho da fonte no resultado */
+}
+
+/* Outros estilos de ajustes, se necessário */
