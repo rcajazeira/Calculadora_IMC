@@ -16,7 +16,7 @@
             
             <label for="altura">Informe sua altura (m):</label>
             <input type="number" id="altura" step="0.01" required>
-            
+            <br>
             <button type="button" id="calcularButton">Calcular</button>
         </form>
         
